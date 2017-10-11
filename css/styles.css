@@ -1,0 +1,21 @@
+h1 {
+
+  color:blue;
+}
+
+
+.background-fun {
+  background-color: #f1f5f1;
+  padding: 5px 5px 5px 5px;
+  width:inherit;
+  height: 300px;
+
+}
+.img-dimen{
+  width: 100%;
+  height: 100%;
+}
+.text-div{
+  padding: 70px;
+}
+
